@@ -353,21 +353,38 @@ public class ConnectionStreet {
             pn.Transitions.add(t3);
 
             //--- Transition t4
-
+            
             PetriTransition t4 = new PetriTransition(pn);
             t4.TransitionName = "t4";
             t4.InputPlaceName.add("p4");
+            
+            Condition T4Ct1 = new Condition(t4,"p4", TransitionCondition.HaveCarForMe);
+            
+            GuardMapping grdT4 = new GuardMapping();
+            grdT4.condition = T4Ct1;
+            
+            grdT4.Activations.add(new Activation(t4, "p4", TransitionOperation.PopElementWithTarget,"p5"));
+            
+            t4.GuardMappingList.add(grdT4);
+            t4.Delay = 0;
+            pn.Transitions.add(t4);
 
-            Condition T4Ct1 = new Condition(t4,"p4", TransitionCondition.NotNull);
+            //--- Transition t5
+
+            PetriTransition t5 = new PetriTransition(pn);
+            t5.TransitionName = "t5";
+            t5.InputPlaceName.add("p5");
+
+            Condition T4Ct1 = new Condition(t5,"p5", TransitionCondition.NotNull);
 
             GuardMapping grdT4 = new GuardMapping();
             grdT4.condition = T4Ct1;
 
-            grdT4.Activations.add(new Activation(t4, "p4", TransitionOperation.SendOverNetwork,"p5n"));
+            grdT4.Activations.add(new Activation(t5, "p5", TransitionOperation.SendOverNetwork,"p5n"));
 
-            t4.GuardMappingList.add(grdT4);
-            t4.Delay = 0;
-            pn.Transitions.add(t4);
+            t5.GuardMappingList.add(grdT4);
+            t5.Delay = 0;
+            pn.Transitions.add(t5);
 
             // GUI
             System.out.println("Connection Street started \n ------------------------------");
