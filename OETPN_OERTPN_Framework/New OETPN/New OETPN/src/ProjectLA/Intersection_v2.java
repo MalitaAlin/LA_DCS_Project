@@ -1,4 +1,4 @@
-package Project_Intersections;
+package ProjectLA;
 
 import Components.*;
 import DataObjects.DataCar;
@@ -25,7 +25,6 @@ public class Intersection_v2 {
 
         // -------- Intersection Entry ---- Lane1 --- LEFT LANE
 
-
         // This will accept from Connection Street
         DataCar P_a1 = new DataCar();
         P_a1.SetName("P_a1");
@@ -44,7 +43,6 @@ public class Intersection_v2 {
         P_b1.SetName("P_b1");
         pn.PlaceList.add(P_b1);
 
-
         // --- send to Controller 1
         DataTransfer OP1 = new DataTransfer();
         OP1.SetName("OP1");
@@ -60,7 +58,8 @@ public class Intersection_v2 {
         P_a2.SetName("P_a2");
         pn.PlaceList.add(P_a2);
 
-        DataCarQueue P_x2 = new DataCarQueue(); ;
+        DataCarQueue P_x2 = new DataCarQueue();
+        ;
         P_x2.Value.Size = 3;
         P_x2.SetName("P_x2");
         pn.PlaceList.add(P_x2);
@@ -110,7 +109,7 @@ public class Intersection_v2 {
         P_b3.SetName("P_b3");
         pn.PlaceList.add(P_b3);
 
-        //--- sending to Controller1
+        // --- sending to Controller1
         DataTransfer OP3 = new DataTransfer();
         OP3.SetName("OP3");
         OP3.Value = new TransferOperation("localhost", "1094", "in3");
@@ -141,7 +140,6 @@ public class Intersection_v2 {
         P_o4Exit.SetName("P_o4Exit");
         pn.PlaceList.add(P_o4Exit);
 
-
         // ----------Intersection-
 
         DataCarQueue P_I = new DataCarQueue();
@@ -149,14 +147,14 @@ public class Intersection_v2 {
         P_I.SetName("P_I");
         pn.PlaceList.add(P_I);
 
-        //---------------------------//------------------//
-        //-----------------------TRANSITIONS-------------//
-        //----------------------------//-----------------//
+        // ---------------------------//------------------//
+        // -----------------------TRANSITIONS-------------//
+        // ----------------------------//-----------------//
 
-        //--------------------------------//
-        //---- Transitions -- LANE 1 -----//
+        // --------------------------------//
+        // ---- Transitions -- LANE 1 -----//
 
-        //---- Entry Transitions
+        // ---- Entry Transitions
 
         // --- t_u1
 
@@ -181,10 +179,10 @@ public class Intersection_v2 {
         tu1_ct3.SetNextCondition(LogicConnector.AND, tu1_ct4);
 
         GuardMapping grdtu1_2 = new GuardMapping();
-        grdtu1_2.condition= tu1_ct3;
+        grdtu1_2.condition = tu1_ct3;
 
         grdtu1.Activations.add(new Activation(t_u1, "full", TransitionOperation.SendOverNetwork, "OP1"));
-        grdtu1.Activations.add(new Activation(t_u1, "P_a1", TransitionOperation.Move,"P_a1"));
+        grdtu1.Activations.add(new Activation(t_u1, "P_a1", TransitionOperation.Move, "P_a1"));
         t_u1.GuardMappingList.add(grdtu1_2);
         t_u1.Delay = 0;
         pn.Transitions.add(t_u1);
@@ -229,13 +227,12 @@ public class Intersection_v2 {
         t_i1.Delay = 0;
         pn.Transitions.add(t_i1);
 
+        // --------------------------------//
+        // ---- Transitions -- LANE 2 -----//
 
-        //--------------------------------//
-        //---- Transitions -- LANE 2 -----//
+        // ---- Entry Transitions
 
-        //---- Entry Transitions
-
-        //--- t_u2
+        // --- t_u2
 
         PetriTransition t_u2 = new PetriTransition(pn);
         t_u2.TransitionName = "t_u2";
@@ -258,10 +255,10 @@ public class Intersection_v2 {
         tu2_ct3.SetNextCondition(LogicConnector.AND, tu2_ct4);
 
         GuardMapping grdtu2_2 = new GuardMapping();
-        grdtu2_2.condition= tu2_ct3;
+        grdtu2_2.condition = tu2_ct3;
 
         grdtu2.Activations.add(new Activation(t_u2, "full", TransitionOperation.SendOverNetwork, "OP2"));
-        grdtu2.Activations.add(new Activation(t_u2, "P_a2", TransitionOperation.Move,"P_a2"));
+        grdtu2.Activations.add(new Activation(t_u2, "P_a2", TransitionOperation.Move, "P_a2"));
         t_u2.GuardMappingList.add(grdtu2_2);
         t_u2.Delay = 0;
         pn.Transitions.add(t_u2);
@@ -318,7 +315,8 @@ public class Intersection_v2 {
 
         GuardMapping grdtg2E = new GuardMapping();
         grdtg2E.condition = tg2E_ct1;
-        grdtg2E.Activations.add(new Activation(t_g2Exit, "P_o2", TransitionOperation.PopElementWithoutTarget, "P_o2Exit"));
+        grdtg2E.Activations
+                .add(new Activation(t_g2Exit, "P_o2", TransitionOperation.PopElementWithoutTarget, "P_o2Exit"));
         t_g2Exit.GuardMappingList.add(grdtg2E);
 
         t_g2Exit.Delay = 0;
@@ -342,12 +340,12 @@ public class Intersection_v2 {
         t_g2.Delay = 0;
         pn.Transitions.add(t_g2);
 
-        //--------------------------------//
-        //---- Transitions -- LANE 3 -----//
+        // --------------------------------//
+        // ---- Transitions -- LANE 3 -----//
 
-        //---- Entry Transitions
+        // ---- Entry Transitions
 
-        //--- t_u3
+        // --- t_u3
 
         PetriTransition t_u3 = new PetriTransition(pn);
         t_u3.TransitionName = "t_u3";
@@ -370,10 +368,10 @@ public class Intersection_v2 {
         tu3_ct3.SetNextCondition(LogicConnector.AND, tu3_ct4);
 
         GuardMapping grdtu3_2 = new GuardMapping();
-        grdtu3_2.condition= tu3_ct3;
+        grdtu3_2.condition = tu3_ct3;
 
         grdtu3.Activations.add(new Activation(t_u3, "full", TransitionOperation.SendOverNetwork, "OP3"));
-        grdtu3.Activations.add(new Activation(t_u3, "P_a3", TransitionOperation.Move,"P_a3"));
+        grdtu3.Activations.add(new Activation(t_u3, "P_a3", TransitionOperation.Move, "P_a3"));
         t_u3.GuardMappingList.add(grdtu3_2);
         t_u3.Delay = 0;
         pn.Transitions.add(t_u3);
@@ -430,7 +428,8 @@ public class Intersection_v2 {
 
         GuardMapping grdtg3E = new GuardMapping();
         grdtg3E.condition = tg3E_ct1;
-        grdtg3E.Activations.add(new Activation(t_g3Exit, "P_o3", TransitionOperation.PopElementWithoutTarget, "P_o3Exit"));
+        grdtg3E.Activations
+                .add(new Activation(t_g3Exit, "P_o3", TransitionOperation.PopElementWithoutTarget, "P_o3Exit"));
         t_g3Exit.GuardMappingList.add(grdtg3E);
 
         t_g3Exit.Delay = 0;
@@ -454,8 +453,8 @@ public class Intersection_v2 {
         t_g3.Delay = 0;
         pn.Transitions.add(t_g3);
 
-        //--------------//-----------------//
-        //--------- Transitions Lane 4-----//
+        // --------------//-----------------//
+        // --------- Transitions Lane 4-----//
 
         // --------Exit Transitions
 
@@ -469,7 +468,8 @@ public class Intersection_v2 {
 
         GuardMapping grdtg4E = new GuardMapping();
         grdtg4E.condition = tg4E_ct1;
-        grdtg4E.Activations.add(new Activation(t_g4Exit, "P_o4", TransitionOperation.PopElementWithoutTarget, "P_o4Exit"));
+        grdtg4E.Activations
+                .add(new Activation(t_g4Exit, "P_o4", TransitionOperation.PopElementWithoutTarget, "P_o4Exit"));
         t_g4Exit.GuardMappingList.add(grdtg4E);
 
         t_g4Exit.Delay = 0;
@@ -493,7 +493,6 @@ public class Intersection_v2 {
 
         t_g4.Delay = 0;
         pn.Transitions.add(t_g4);
-
 
         // -------------------------------------------------------------------------------------
         // ----------------------------PNStart-------------------------------------------------
