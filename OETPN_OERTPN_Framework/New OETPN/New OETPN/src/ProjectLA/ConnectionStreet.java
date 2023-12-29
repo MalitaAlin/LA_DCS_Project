@@ -375,14 +375,14 @@ public class ConnectionStreet {
             t5.TransitionName = "t5";
             t5.InputPlaceName.add("p5");
 
-            Condition T4Ct1 = new Condition(t5,"p5", TransitionCondition.NotNull);
+            Condition T5Ct1 = new Condition(t5,"p5", TransitionCondition.NotNull);
 
-            GuardMapping grdT4 = new GuardMapping();
-            grdT4.condition = T4Ct1;
+            GuardMapping grdT5 = new GuardMapping();
+            grdT5.condition = T5Ct1;
 
-            grdT4.Activations.add(new Activation(t5, "p5", TransitionOperation.SendOverNetwork,"p5n"));
+            grdT5.Activations.add(new Activation(t5, "p5", TransitionOperation.SendOverNetwork,"p5n"));
 
-            t5.GuardMappingList.add(grdT4);
+            t5.GuardMappingList.add(grdT5);
             t5.Delay = 0;
             pn.Transitions.add(t5);
 
