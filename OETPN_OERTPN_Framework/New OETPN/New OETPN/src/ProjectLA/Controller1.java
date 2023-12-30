@@ -93,7 +93,7 @@ public class Controller1 {
 			pn.PlaceList.add(r1r2r3);
 			
 			DataString g1r2r3 = new DataString();
-			g1r2r3.SetName("g1r2r3r4");
+			g1r2r3.SetName("g1r2r3");
 			pn.PlaceList.add(g1r2r3);
 			
 			DataString r1g2r3 = new DataString();
@@ -126,9 +126,9 @@ public class Controller1 {
 			GuardMapping grdiniT = new GuardMapping();
 			grdiniT.condition= iniTCt1;
 			
-			grdiniT.Activations.add(new Activation(init, "ini", TransitionOperation.SendOverNetwork, "OP1"));
-			grdiniT.Activations.add(new Activation(init, "ini", TransitionOperation.SendOverNetwork, "OP2"));
-			grdiniT.Activations.add(new Activation(init, "ini", TransitionOperation.SendOverNetwork, "OP3"));
+			grdiniT.Activations.add(new Activation(init, "in0", TransitionOperation.SendOverNetwork, "OP1"));
+			grdiniT.Activations.add(new Activation(init, "in0", TransitionOperation.SendOverNetwork, "OP2"));
+			grdiniT.Activations.add(new Activation(init, "in0", TransitionOperation.SendOverNetwork, "OP3"));
 			grdiniT.Activations.add(new Activation(init, "", TransitionOperation.MakeNull, "in0"));
 			
 			init.GuardMappingList.add(grdiniT);
@@ -193,7 +193,7 @@ public class Controller1 {
 			//----------------------------T3------------------------------------
 			PetriTransition t3 = new PetriTransition(pn);
 			t3.TransitionName = "T3";
-			t3.InputPlaceName.add("g1r2r3");
+			t3.InputPlaceName.add("r1g2r3");
 			t3.InputPlaceName.add("in2");
 			
 			Condition T3Ct1 = new Condition(t3, "r1g2r3", TransitionCondition.NotNull);

@@ -1,0 +1,704 @@
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,NULL,NULL)|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(yellow)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,NULL,NULL)|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(yellow)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,NULL,NULL)|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(yellow)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,NULL,NULL)|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(yellow)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_TL3
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,NULL,NULL)|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(green)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,NULL,NULL)|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(green)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,NULL,NULL)|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(green)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,NULL,NULL)|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(green)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,NULL,NULL)|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(green)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_TL3
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_TL2
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,NULL,NULL)|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(yellow)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,NULL,NULL)|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(yellow)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,NULL,NULL)|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(yellow)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,NULL,NULL)|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(yellow)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,NULL,NULL)|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(yellow)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,NULL,NULL)|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(yellow)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_TL2
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,NULL,NULL)|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(green)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,NULL,NULL)|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(green)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,NULL,NULL)|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(green)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,NULL,NULL)|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(green)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,NULL,NULL)|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(green)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_TL2
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_TL1
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,NULL,NULL)|  P_TL1(yellow)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,NULL,NULL)|  P_TL1(yellow)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,NULL,NULL)|  P_TL1(yellow)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,NULL,NULL)|  P_TL1(yellow)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,NULL,NULL)|  P_TL1(yellow)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,NULL,NULL)|  P_TL1(yellow)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_TL1
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,NULL,NULL)|  P_TL1(green)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,NULL,NULL)|  P_TL1(green)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,NULL,NULL)|  P_TL1(green)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,NULL,NULL)|  P_TL1(green)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+ ExecutionList [t_g4Exit Temp Marking []]
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,NULL,NULL)|  P_TL1(green)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(P_o4(model-number),NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+ ExecutionList [t_g4 Temp Marking []]
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,NULL,NULL)|  P_TL1(green)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(P_I(model-number),NULL,NULL)|]
+ ExecutionList [t_i1 Temp Marking [P_b1(model-number)]]
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,NULL,NULL)|  P_TL1(green)  P_b1(model-number)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+ ExecutionList [t_e1 Temp Marking [P_TL1(green)]]
+[t_u1 conditions are false]0[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,P_x1(model-number),NULL)|  P_TL1(green)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+ ExecutionList [t_e1 Temp Marking [P_TL1(green)],t_g4Exit Temp Marking []]
+[t_u1 conditions are false]0[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,P_x1(model-number),NULL)|  P_TL1(green)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(P_o4(model-number),NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_TL1
+ ExecutionList [t_e1 Temp Marking [P_TL1(green)],t_g4 Temp Marking []]
+[t_u1 conditions are false]0[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,P_x1(model-number),NULL)|  P_TL1(Null)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(P_I(model-number),NULL,NULL)|]
+ ExecutionList [t_e1 Temp Marking [P_TL1(green)],t_i1 Temp Marking [P_b1(model-number)]]
+[t_u1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,P_x1(model-number),NULL)|  P_TL1(green)  P_b1(model-number)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+ ExecutionList [t_e1 Temp Marking [P_TL1(green)]]
+[t_u1 conditions are false]0[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(P_x1(model-number),P_x1(model-number),NULL)|  P_TL1(Null)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+ ExecutionList [t_e1 Temp Marking [P_TL1(green)]]
+[t_u1 conditions are false]0[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(P_x1(model-number),P_x1(model-number),NULL)|  P_TL1(Null)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+ ExecutionList [t_e1 Temp Marking [P_TL1(green)]]
+[t_u1 conditions are false]0[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(P_x1(model-number),P_x1(model-number),NULL)|  P_TL1(Null)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+ ExecutionList [t_e1 Temp Marking [P_TL1(green)]]
+[t_u1 conditions are false]0[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(P_x1(model-number),P_x1(model-number),NULL)|  P_TL1(green)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_TL1
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_TL3
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(P_x1(model-number),P_x1(model-number),NULL)|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(yellow)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(P_x1(model-number),P_x1(model-number),NULL)|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(yellow)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(P_x1(model-number),P_x1(model-number),NULL)|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(yellow)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(P_x1(model-number),P_x1(model-number),NULL)|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(yellow)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(P_x1(model-number),P_x1(model-number),NULL)|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(yellow)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_TL3
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(P_x1(model-number),P_x1(model-number),NULL)|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(green)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(P_x1(model-number),P_x1(model-number),NULL)|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(green)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(P_x1(model-number),P_x1(model-number),NULL)|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(green)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(P_x1(model-number),P_x1(model-number),NULL)|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(green)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+ ExecutionList [t_u1 Temp Marking [P_a1(model-number)]]
+[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(model-number)  P_x1|(P_x1(model-number),NULL,NULL)|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(green)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_a1
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_a1
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_a1
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_a1
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_a1
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_TL3
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_TL2
+ ExecutionList [t_u1 Temp Marking [P_a1(model-number)]]
+[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(model-number)  P_x1|(NULL,NULL,NULL)|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(yellow)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_a1
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_a1
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_a1
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_a1
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,NULL,NULL)|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(yellow)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,NULL,NULL)|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(yellow)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,NULL,NULL)|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(yellow)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,NULL,NULL)|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(yellow)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,NULL,NULL)|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(yellow)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_TL2
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,NULL,NULL)|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(green)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,NULL,NULL)|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(green)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+ ExecutionList [t_g4Exit Temp Marking []]
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,NULL,NULL)|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(green)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(P_o4(model-number),NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+ ExecutionList [t_g4 Temp Marking []]
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,NULL,NULL)|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(green)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(P_I(model-number),NULL,NULL)|]
+ ExecutionList [t_i1 Temp Marking [P_b1(model-number)]]
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,NULL,NULL)|  P_TL1(red)  P_b1(model-number)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(green)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_TL2
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_TL1
+ ExecutionList [t_e1 Temp Marking [P_TL1(green)]]
+[t_u1 conditions are false]0[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,NULL,P_x1(model-number))|  P_TL1(Null)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+ ExecutionList [t_e1 Temp Marking [P_TL1(green)],t_g4Exit Temp Marking []]
+[t_u1 conditions are false]0[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,NULL,P_x1(model-number))|  P_TL1(Null)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(P_o4(model-number),NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+ ExecutionList [t_e1 Temp Marking [P_TL1(green)],t_g4 Temp Marking []]
+[t_u1 conditions are false]0[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,NULL,P_x1(model-number))|  P_TL1(Null)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(P_I(model-number),NULL,NULL)|]
+ ExecutionList [t_e1 Temp Marking [P_TL1(green)],t_i1 Temp Marking [P_b1(model-number)]]
+[t_u1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,NULL,P_x1(model-number))|  P_TL1(green)  P_b1(model-number)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+ ExecutionList [t_e1 Temp Marking [P_TL1(green)]]
+[t_u1 conditions are false]0[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,P_x1(model-number),P_x1(model-number))|  P_TL1(yellow)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_TL1
+ ExecutionList [t_e1 Temp Marking [P_TL1(green)],t_g4Exit Temp Marking []]
+[t_u1 conditions are false]0[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,P_x1(model-number),P_x1(model-number))|  P_TL1(Null)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(P_o4(model-number),NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+ ExecutionList [t_e1 Temp Marking [P_TL1(green)],t_g4 Temp Marking []]
+[t_u1 conditions are false]0[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,P_x1(model-number),P_x1(model-number))|  P_TL1(Null)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(P_I(model-number),NULL,NULL)|]
+ ExecutionList [t_e1 Temp Marking [P_TL1(green)],t_i1 Temp Marking [P_b1(model-number)]]
+[t_u1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,P_x1(model-number),P_x1(model-number))|  P_TL1(green)  P_b1(model-number)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+ ExecutionList [t_e1 Temp Marking [P_TL1(green)]]
+[t_u1 conditions are false]0[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(P_x1(model-number),P_x1(model-number),P_x1(model-number))|  P_TL1(green)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+ ExecutionList [t_e1 Temp Marking [P_TL1(green)],t_g4Exit Temp Marking []]
+[t_u1 conditions are false]0[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(P_x1(model-number),P_x1(model-number),P_x1(model-number))|  P_TL1(green)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL,P_o4(model-number))|  P_o4Exit(model-number)  P_I|(NULL,NULL,NULL)|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_TL1
+ ExecutionList [t_e1 Temp Marking [P_TL1(green)],t_g4 Temp Marking []]
+[t_u1 conditions are false]0[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(P_x1(model-number),P_x1(model-number),P_x1(model-number))|  P_TL1(Null)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL,P_I(model-number))|]
+ ExecutionList [t_u1 Temp Marking [P_a1(model-number)],t_e1 Temp Marking [P_TL1(green)],t_i1 Temp Marking [P_b1(model-number)]]
+[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(model-number)  P_x1|(NULL,P_x1(model-number),P_x1(model-number))|  P_TL1(green)  P_b1(model-number)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL)|]
+ ExecutionList [t_e1 Temp Marking [P_TL1(green)],t_u1 Temp Marking [P_a1(model-number)]]
+[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(model-number)  P_x1|(P_x1(model-number),P_x1(model-number),P_x1(model-number))|  P_TL1(Null)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL)|]
+ ExecutionList [t_e1 Temp Marking [P_TL1(green)],t_u1 Temp Marking [P_a1(model-number)]]
+[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(model-number)  P_x1|(P_x1(model-number),P_x1(model-number),P_x1(model-number))|  P_TL1(Null)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL)|]
+ ExecutionList [t_e1 Temp Marking [P_TL1(green)],t_u1 Temp Marking [P_a1(model-number)]]
+[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(model-number)  P_x1|(P_x1(model-number),P_x1(model-number),P_x1(model-number))|  P_TL1(Null)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL)|]
+ ExecutionList [t_u1 Temp Marking [P_a1(model-number)],t_e1 Temp Marking [P_TL1(green)]]
+[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(model-number)  P_x1|(P_x1(model-number),P_x1(model-number),P_x1(model-number))|  P_TL1(green)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL)|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_TL1
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_TL3
+ ExecutionList [t_u1 Temp Marking [P_a1(model-number)]]
+[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(model-number)  P_x1|(P_x1(model-number),P_x1(model-number),P_x1(model-number))|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(yellow)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL)|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_a1
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_a1
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_a1
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_a1
+ ExecutionList [t_u1 Temp Marking [P_a1(model-number)]]
+[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(model-number)  P_x1|(P_x1(model-number),P_x1(model-number),P_x1(model-number))|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(yellow)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL)|]
+ ExecutionList [t_u1 Temp Marking [P_a1(model-number)]]
+[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(model-number)  P_x1|(P_x1(model-number),P_x1(model-number),P_x1(model-number))|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(yellow)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL)|]
+ ExecutionList [t_u1 Temp Marking [P_a1(model-number)]]
+[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(model-number)  P_x1|(P_x1(model-number),P_x1(model-number),P_x1(model-number))|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(yellow)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL)|]
+ ExecutionList [t_u1 Temp Marking [P_a1(model-number)]]
+[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(model-number)  P_x1|(P_x1(model-number),P_x1(model-number),P_x1(model-number))|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(yellow)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL)|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_TL3
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_a1
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_a1
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_a1
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_a1
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_a1
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_a1
+ ExecutionList [t_u1 Temp Marking [P_a1(model-number)]]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_a1
+[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(model-number)  P_x1|(P_x1(model-number),P_x1(model-number),P_x1(model-number))|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(green)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL)|]
+ ExecutionList [t_u1 Temp Marking [P_a1(model-number)]]
+[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(model-number)  P_x1|(P_x1(model-number),P_x1(model-number),P_x1(model-number))|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(green)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL)|]
+ ExecutionList [t_u1 Temp Marking [P_a1(model-number)]]
+[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(model-number)  P_x1|(P_x1(model-number),P_x1(model-number),P_x1(model-number))|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(green)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL)|]
+ ExecutionList [t_u1 Temp Marking [P_a1(model-number)]]
+[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(model-number)  P_x1|(P_x1(model-number),P_x1(model-number),P_x1(model-number))|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(green)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL)|]
+ ExecutionList [t_u1 Temp Marking [P_a1(model-number)]]
+[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(model-number)  P_x1|(P_x1(model-number),P_x1(model-number),P_x1(model-number))|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(green)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL)|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_TL3
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_TL2
+ ExecutionList [t_u1 Temp Marking [P_a1(model-number)]]
+[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(model-number)  P_x1|(P_x1(model-number),P_x1(model-number),P_x1(model-number))|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(yellow)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL)|]
+ ExecutionList [t_u1 Temp Marking [P_a1(model-number)]]
+[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(model-number)  P_x1|(P_x1(model-number),P_x1(model-number),P_x1(model-number))|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(yellow)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL)|]
+ ExecutionList [t_u1 Temp Marking [P_a1(model-number)]]
+[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(model-number)  P_x1|(P_x1(model-number),P_x1(model-number),P_x1(model-number))|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(yellow)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL)|]
+ ExecutionList [t_u1 Temp Marking [P_a1(model-number)]]
+[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(model-number)  P_x1|(P_x1(model-number),P_x1(model-number),P_x1(model-number))|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(yellow)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL)|]
+ ExecutionList [t_u1 Temp Marking [P_a1(model-number)]]
+[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(model-number)  P_x1|(P_x1(model-number),P_x1(model-number),P_x1(model-number))|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(yellow)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL)|]
+ ExecutionList [t_u1 Temp Marking [P_a1(model-number)]]
+[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_TL2
+ ConstantPlaceList []
+ PlaceList [P_a1(model-number)  P_x1|(P_x1(model-number),P_x1(model-number),P_x1(model-number))|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(green)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL)|]
+ ExecutionList [t_u1 Temp Marking [P_a1(model-number)]]
+[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(model-number)  P_x1|(P_x1(model-number),P_x1(model-number),P_x1(model-number))|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(green)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL)|]
+ ExecutionList [t_u1 Temp Marking [P_a1(model-number)]]
+[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(model-number)  P_x1|(P_x1(model-number),P_x1(model-number),P_x1(model-number))|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(green)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL)|]
+ ExecutionList [t_u1 Temp Marking [P_a1(model-number)]]
+[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(model-number)  P_x1|(P_x1(model-number),P_x1(model-number),P_x1(model-number))|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(green)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL)|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_a1
+ ExecutionList [t_u1 Temp Marking [P_a1(model-number)]]
+[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(model-number)  P_x1|(P_x1(model-number),NULL,P_x1(model-number))|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(green)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL)|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_a1
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_a1
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_a1
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(P_x1(model-number),NULL,P_x1(model-number))|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(green)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL)|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(P_x1(model-number),NULL,P_x1(model-number))|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(green)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL)|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(P_x1(model-number),NULL,P_x1(model-number))|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(green)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL)|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(P_x1(model-number),NULL,P_x1(model-number))|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(green)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL)|]
+ ExecutionList [t_u1 Temp Marking [P_a1(model-number)]]
+[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(model-number)  P_x1|(NULL,NULL,P_x1(model-number))|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(green)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL)|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_a1
+ ExecutionList [t_u1 Temp Marking [P_a1(model-number)]]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_a1
+[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_a1
+ PlaceList [P_a1(model-number)  P_x1|(NULL,NULL)|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(green)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL)|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_a1
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_a1
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_a1
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_a1
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,NULL)|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(green)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL)|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_TL2
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_TL1
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,NULL)|  P_TL1(yellow)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL)|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,NULL)|  P_TL1(yellow)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL)|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,NULL)|  P_TL1(yellow)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL)|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,NULL)|  P_TL1(yellow)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL)|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,NULL)|  P_TL1(yellow)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,NULL)|  P_o4Exit(model-number)  P_I|(NULL,NULL)|]
+ ExecutionList [t_g4Exit Temp Marking []]
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,NULL)|  P_TL1(yellow)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL,P_o4(model-number))|  P_o4Exit(model-number)  P_I|(NULL,NULL)|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_TL1
+ ExecutionList [t_g4 Temp Marking []]
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,NULL)|  P_TL1(green)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL)|  P_o4Exit(model-number)  P_I|(NULL,P_I(model-number))|]
+ ExecutionList [t_i1 Temp Marking [P_b1(model-number)]]
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,NULL)|  P_TL1(green)  P_b1(model-number)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL)|  P_o4Exit(model-number)  P_I|(NULL)|]
+ ExecutionList [t_e1 Temp Marking [P_TL1(green)]]
+[t_u1 conditions are false]0[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,P_x1(model-number))|  P_TL1(green)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(NULL)|  P_o4Exit(model-number)  P_I|(NULL)|]
+ ExecutionList [t_e1 Temp Marking [P_TL1(green)],t_g4Exit Temp Marking []]
+[t_u1 conditions are false]0[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,P_x1(model-number))|  P_TL1(green)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|(P_o4(model-number))|  P_o4Exit(Null)  P_I|(NULL)|]
+ ExecutionList [t_e1 Temp Marking [P_TL1(green)],t_g4 Temp Marking []]
+[t_u1 conditions are false]0[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,P_x1(model-number))|  P_TL1(green)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|()|  P_o4Exit(Null)  P_I|(P_I(model-number))|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_TL1
+ ExecutionList [t_e1 Temp Marking [P_TL1(green)],t_i1 Temp Marking [P_b1(model-number)]]
+[t_u1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(NULL,P_x1(model-number))|  P_TL1(green)  P_b1(model-number)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|()|  P_o4Exit(Null)  P_I|()|]
+ ExecutionList [t_e1 Temp Marking [P_TL1(green)]]
+[t_u1 conditions are false]0[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(P_x1(model-number),P_x1(model-number))|  P_TL1(Null)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|()|  P_o4Exit(Null)  P_I|()|]
+ ExecutionList [t_e1 Temp Marking [P_TL1(green)]]
+[t_u1 conditions are false]0[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(P_x1(model-number),P_x1(model-number))|  P_TL1(Null)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|()|  P_o4Exit(Null)  P_I|()|]
+ ExecutionList [t_e1 Temp Marking [P_TL1(green)]]
+[t_u1 conditions are false]0[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(P_x1(model-number),P_x1(model-number))|  P_TL1(Null)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|()|  P_o4Exit(Null)  P_I|()|]
+ ExecutionList [t_e1 Temp Marking [P_TL1(green)]]
+[t_u1 conditions are false]0[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(P_x1(model-number),P_x1(model-number))|  P_TL1(green)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(red)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|()|  P_o4Exit(Null)  P_I|()|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_TL1
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_TL3
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(P_x1(model-number),P_x1(model-number))|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(yellow)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|()|  P_o4Exit(Null)  P_I|()|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(P_x1(model-number),P_x1(model-number))|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(yellow)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|()|  P_o4Exit(Null)  P_I|()|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(P_x1(model-number),P_x1(model-number))|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(yellow)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|()|  P_o4Exit(Null)  P_I|()|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(P_x1(model-number),P_x1(model-number))|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(yellow)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|()|  P_o4Exit(Null)  P_I|()|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(P_x1(model-number),P_x1(model-number))|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(yellow)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|()|  P_o4Exit(Null)  P_I|()|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(P_x1(model-number),P_x1(model-number))|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(yellow)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|()|  P_o4Exit(Null)  P_I|()|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_TL3
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(P_x1(model-number),P_x1(model-number))|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(green)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|()|  P_o4Exit(Null)  P_I|()|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(P_x1(model-number),P_x1(model-number))|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(green)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|()|  P_o4Exit(Null)  P_I|()|]
+ ExecutionList [t_u1 Temp Marking [P_a1(model-number)]]
+[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(model-number)  P_x1|(P_x1(model-number))|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(green)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|()|  P_o4Exit(Null)  P_I|()|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_a1
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_a1
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|(P_x1(model-number))|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(green)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|()|  P_o4Exit(Null)  P_I|()|]
+ ExecutionList [t_u1 Temp Marking [P_a1(model-number)]]
+[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(model-number)  P_x1|()|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(red)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(green)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|()|  P_o4Exit(Null)  P_I|()|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_a1
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_a1
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_a1
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_a1
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_TL3
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_TL2
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_a1
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_a1
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_a1
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|()|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(yellow)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(Null)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|()|  P_o4Exit(Null)  P_I|()|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|()|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(yellow)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(Null)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|()|  P_o4Exit(Null)  P_I|()|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|()|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(yellow)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(Null)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|()|  P_o4Exit(Null)  P_I|()|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|()|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(yellow)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(Null)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|()|  P_o4Exit(Null)  P_I|()|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|()|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(yellow)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(Null)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|()|  P_o4Exit(Null)  P_I|()|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_TL2
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|()|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(green)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(Null)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|()|  P_o4Exit(Null)  P_I|()|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|()|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(green)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(Null)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|()|  P_o4Exit(Null)  P_I|()|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|()|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(green)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(Null)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|()|  P_o4Exit(Null)  P_I|()|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|()|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(green)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(Null)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|()|  P_o4Exit(Null)  P_I|()|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|()|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(green)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(Null)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|()|  P_o4Exit(Null)  P_I|()|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|()|  P_TL1(red)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(green)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(Null)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|()|  P_o4Exit(Null)  P_I|()|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_TL2
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_TL1
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|()|  P_TL1(yellow)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(Null)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(Null)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|()|  P_o4Exit(Null)  P_I|()|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|()|  P_TL1(yellow)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(Null)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(Null)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|()|  P_o4Exit(Null)  P_I|()|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|()|  P_TL1(yellow)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(Null)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(Null)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|()|  P_o4Exit(Null)  P_I|()|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|()|  P_TL1(yellow)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(Null)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(Null)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|()|  P_o4Exit(Null)  P_I|()|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|()|  P_TL1(yellow)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(Null)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(Null)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|()|  P_o4Exit(Null)  P_I|()|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_TL1
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|()|  P_TL1(green)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(Null)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(Null)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|()|  P_o4Exit(Null)  P_I|()|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|()|  P_TL1(green)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(Null)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(Null)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|()|  P_o4Exit(Null)  P_I|()|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|()|  P_TL1(green)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(Null)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(Null)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|()|  P_o4Exit(Null)  P_I|()|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|()|  P_TL1(green)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(Null)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(Null)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|()|  P_o4Exit(Null)  P_I|()|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|()|  P_TL1(green)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(Null)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(Null)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|()|  P_o4Exit(Null)  P_I|()|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_TL1
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|()|  P_TL1(Null)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(Null)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(Null)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|()|  P_o4Exit(Null)  P_I|()|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|()|  P_TL1(Null)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(Null)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(Null)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|()|  P_o4Exit(Null)  P_I|()|]
+ ExecutionList []
+[t_u1 conditions are false]0[t_e1 conditions are false]3[t_i1 conditions are false]0[t_u2 conditions are false]0[t_e2 conditions are false]3[t_i2 conditions are false]0[t_g2Exit conditions are false]0[t_g2 conditions are false]0[t_u3 conditions are false]0[t_e3 conditions are false]3[t_i3 conditions are false]0[t_g3Exit conditions are false]0[t_g3 conditions are false]0[t_g4Exit conditions are false]0[t_g4 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a1(Null)  P_x1|()|  P_TL1(Null)  P_b1(Null)  OP1(localhost-1094-in1)  P_a2(Null)  P_x2|()|  P_TL2(Null)  P_b2(Null)  OP2(localhost-1094-in2)  P_o2|()|  P_o2Exit(Null)  P_a3(Null)  P_x3|()|  P_TL3(Null)  P_b3(Null)  OP3(localhost-1094-in3)  P_o3|()|  P_o3Exit(Null)  P_o4|()|  P_o4Exit(Null)  P_I|()|]
+Waiting For Commands over this port:1092
+####################  Intersection 2 Started  #####################
