@@ -181,8 +181,8 @@ public class Intersection_v2 {
         GuardMapping grdtu1_2 = new GuardMapping();
         grdtu1_2.condition = tu1_ct3;
 
-        grdtu1.Activations.add(new Activation(t_u1, "full", TransitionOperation.SendOverNetwork, "OP1"));
-        grdtu1.Activations.add(new Activation(t_u1, "P_a1", TransitionOperation.Move, "P_a1"));
+        grdtu1_2.Activations.add(new Activation(t_u1, "full", TransitionOperation.SendOverNetwork, "OP1"));
+        grdtu1_2.Activations.add(new Activation(t_u1, "P_a1", TransitionOperation.Move, "P_a1"));
         t_u1.GuardMappingList.add(grdtu1_2);
         t_u1.Delay = 0;
         pn.Transitions.add(t_u1);
@@ -257,8 +257,8 @@ public class Intersection_v2 {
         GuardMapping grdtu2_2 = new GuardMapping();
         grdtu2_2.condition = tu2_ct3;
 
-        grdtu2.Activations.add(new Activation(t_u2, "full", TransitionOperation.SendOverNetwork, "OP2"));
-        grdtu2.Activations.add(new Activation(t_u2, "P_a2", TransitionOperation.Move, "P_a2"));
+        grdtu2_2.Activations.add(new Activation(t_u2, "full", TransitionOperation.SendOverNetwork, "OP2"));
+        grdtu2_2.Activations.add(new Activation(t_u2, "P_a2", TransitionOperation.Move, "P_a2"));
         t_u2.GuardMappingList.add(grdtu2_2);
         t_u2.Delay = 0;
         pn.Transitions.add(t_u2);
@@ -370,8 +370,8 @@ public class Intersection_v2 {
         GuardMapping grdtu3_2 = new GuardMapping();
         grdtu3_2.condition = tu3_ct3;
 
-        grdtu3.Activations.add(new Activation(t_u3, "full", TransitionOperation.SendOverNetwork, "OP3"));
-        grdtu3.Activations.add(new Activation(t_u3, "P_a3", TransitionOperation.Move, "P_a3"));
+        grdtu3_2.Activations.add(new Activation(t_u3, "full", TransitionOperation.SendOverNetwork, "OP3"));
+        grdtu3_2.Activations.add(new Activation(t_u3, "P_a3", TransitionOperation.Move, "P_a3"));
         t_u3.GuardMappingList.add(grdtu3_2);
         t_u3.Delay = 0;
         pn.Transitions.add(t_u3);
